@@ -1,0 +1,1 @@
+/EHsc /std:c++17 /O2 /Yu"../include/pch.h" /Fp"../include/pch.pch" "../include/pch.obj" /Fe"m.exe"

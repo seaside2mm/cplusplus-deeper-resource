@@ -1,0 +1,1 @@
+/EHsc /std:c++17 /c /O2 /Yc"pch.h" /Fp"pch.pch" /Fo"pch.obj"

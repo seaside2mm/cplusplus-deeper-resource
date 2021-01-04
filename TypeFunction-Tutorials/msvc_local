@@ -1,0 +1,1 @@
+/EHsc /std:c++17 /O2 /Yu"pch.h" /Fp"pch.pch" "pch.obj" /Fe"m.exe"
